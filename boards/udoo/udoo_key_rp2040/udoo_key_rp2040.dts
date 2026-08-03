@@ -1,0 +1,9 @@
+/*
+ * Copyright (c) 2026, Mohan Nagaraj
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/dts-v1/;
+
+#include "udoo_key_rp2040-common.dtsi"
+#include "udoo_key_rp2040-led.dtsi"
