@@ -1,5 +1,0 @@
-# Copyright (c) 2026 Mohan Nagaraj
-# SPDX-License-Identifier: Apache-2.0
-
-config BOARD_UDOO_KEY_RP2040
-	select SOC_RP2040

@@ -1,6 +1,0 @@
-board:
-  name: udoo_key_rp2040
-  full_name: UDOO KEY RP2040
-  vendor: udoo
-  socs:
-    - name: rp2040
